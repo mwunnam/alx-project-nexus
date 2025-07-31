@@ -17,13 +17,13 @@ This is a Final Project to showcase the Things I have learnt with ALX ProdevBack
 - [ ] Coupons
 
 
-### - [ ] Phase 1
+[ ] ### Phase 1
 Core Django API Setup
-* Create projects and app [ ]
-* Bild core Models (User, Products, Orders) [ ]
-* Build Serializers and API views [ ]
-* Write unit test [ ]
-* Test everything locally [ ]
+- [ ] Create projects and app
+- [ ] Bild core Models (User, Products, Orders)
+- [ ] Build Serializers and API views
+- [ ] Write unit test
+- [ ] Test everything locally
 
 ### Phase 2 [ ]
 GitHub Actions For CI
