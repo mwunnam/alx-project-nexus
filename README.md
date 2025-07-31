@@ -4,20 +4,20 @@
 This is a Final Project to showcase the Things I have learnt with ALX ProdevBackend
 
 ### Apps To Consider
-1. Users [x]
-2. Products [x]
-3. Orders [x]
-4. Cart [x]
-5. Wish List []
-6. Shipping [ ]
-7. Payment [ ]
-8. Reviews [ ]
-9. Messaging [ ]
-10. Inventory [ ]
-11. Coupons [ ]
+- [ ] Users
+- [ ] Products
+- [ ] Orders
+- [ ] Cart
+- [ ] Wish List
+- [ ] Shipping
+- [ ] Payment
+- [ ] Reviews
+- [ ] Messaging
+- [ ] Inventory
+- [ ] Coupons
 
 
-### Phase 1 [ ]
+### - [ ] Phase 1
 Core Django API Setup
 * Create projects and app [ ]
 * Bild core Models (User, Products, Orders) [ ]
